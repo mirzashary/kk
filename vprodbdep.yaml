@@ -38,4 +38,4 @@ spec:
             fsType: ext4
       initContainers:
         - name: busybox
-          mountPath: var/lib/mysql
+
